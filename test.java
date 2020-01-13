@@ -1,6 +1,6 @@
 public class test {
     public static void main(final String[] args) {
-        System.out.print("Test");
+        System.out.print("test");
         new game();
     }
 }
